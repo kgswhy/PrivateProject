@@ -233,13 +233,6 @@ require '../../config/dbConnect.php'
                                 <div class="modal-body">
                                     <form method="POST" action="../../function/updateBuku.php">
 
-                                        <!-- 
-                                        Reiki note : 
-                                        Ini harusnya dikasih field ID biar lu bisa tau mana yang di edit
-                                        Cuman buka modal tanpa ngasih tau yang mana yang mau di edit buat apa njir
-                                        -->
-
-
                                         <input type="text" id="idbuku" class="form-control" name="id" value="" hidden />
                                         <div class="mb-3">
                                             <label for="Nis" class="form-label">Nama Buku</label>

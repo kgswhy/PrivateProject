@@ -168,13 +168,13 @@
       <div class="row">
         <div class="col-lg-5 CopyWriting  align-self-center">
           <div class="badge mb-10">
-            <img src="./assets/icons8-student-50.png" class="icon" alt="">
+            <img src="" class="icon" alt="">
             <p class="small-copy">
-              Mari Melihat Data Siswa Dan Guru
+              Mari Melihat Data buku Dan Guru
             </p>
           </div>
           <h1 class="big-header mb-10">
-            Data Guru <br> dan Data Siswa
+            Data Guru <br> dan Data buku
           </h1>
           <p class="primary-copy mb-30">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. <br> Quisquam, voluptatum. Quisquam, voluptatum.
@@ -183,120 +183,117 @@
           <a href="#" class="btn btn-secondary">Tentang Kami</a>
         </div>
         <div class="col-lg-7">
-          <img src="./assets/Banner-header.svg" class="img-banner img-fluid" alt="">
+          <img src="../../assets/Banner-header.svg" class="img-banner img-fluid" alt="">
+        </div>
+      </div>te
+      <div class="container">
+        <div class="row text-center">
+          <div class="col-lg-12">
+            <h3 class="medium-header mb-10">
+              Dipercayai oleh Sekolah dan Organisasi
+            </h3>
+            <p class="primary-copy mb-30">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            </p>
+          </div>
         </div>
       </div>
-    </div>
-  </section>
-  <section class="companies mt-70">
-    <div class="container">
-      <div class="row text-center">
-        <div class="col-lg-12">
-          <h3 class="medium-header mb-10">
-            Dipercayai oleh Sekolah dan Organisasi
-          </h3>
-          <p class="primary-copy mb-30">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-          </p>
+      <div class="carousel mb-20">
+        <div class="carousel-wrapper">
+          <div class="card-brand mr-30">
+            <img src="../../assets/Logo (1).png" class="logo" alt="">
+          </div>
+          <div class="card-brand mr-30">
+            <img src="../../assets/Logo (2).png" class="logo" alt="">
+          </div>
+          <div class="card-brand mr-30">
+            <img src="../../assets/Logo (3).png" class="logo" alt="">
+          </div>
+          <div class="card-brand mr-30">
+            <img src="../../assets/Logo (4).png" class="logo" alt="">
+          </div>
+          <div class="card-brand mr-30">
+            <img src="../../assets/Logo (5).png" class="logo" alt="">
+          </div>
+          <div class="card-brand mr-30">
+            <img src="../../assets/Logo (6).png" class="logo" alt="">
+          </div>
+          <div class="card-brand mr-30">
+            <img src="../../assets/Logo (7).png" class="logo" alt="">
+          </div>
+        </div>
+        <div class="carousel-wrapper">
+          <div class="card-brand mr-30">
+            <img src="../../assets/Logo (1).png" class="logo" alt="">
+          </div>
+          <div class="card-brand mr-30">
+            <img src="../../assets/Logo (2).png" class="logo" alt="">
+          </div>
+          <div class="card-brand mr-30">
+            <img src="../../assets/Logo (3).png" class="logo" alt="">
+          </div>
+          <div class="card-brand mr-30">
+            <img src="../../assets/Logo (4).png" class="logo" alt="">
+          </div>
+          <div class="card-brand mr-30">
+            <img src="../../assets/Logo (5).png" class="logo" alt="">
+          </div>
+          <div class="card-brand mr-30">
+            <img src="../../assets/Logo (6).png" class="logo" alt="">
+          </div>
+          <div class="card-brand mr-30">
+            <img src="../../assets/Logo (7).png" class="logo" alt="">
+          </div>
         </div>
       </div>
-    </div>
-    <div class="carousel mb-20">
-      <div class="carousel-wrapper">
-        <div class="card-brand mr-30">
-          <img src="./assets/Logo (1).png" class="logo" alt="">
+      <div class="carousel-left">
+        <div class="carousel-wrapper-left">
+          <div class="card-brand mr-30">
+            <img src="../../assets/Logo (1).png" class="logo" alt="">
+          </div>
+          <div class="card-brand mr-30">
+            <img src="../../assets/Logo (2).png" class="logo" alt="">
+          </div>
+          <div class="card-brand mr-30">
+            <img src="../../assets/Logo (3).png" class="logo" alt="">
+          </div>
+          <div class="card-brand mr-30">
+            <img src="../../assets/Logo (4).png" class="logo" alt="">
+          </div>
+          <div class="card-brand mr-30">
+            <img src="../../assets/Logo (5).png" class="logo" alt="">
+          </div>
+          <div class="card-brand mr-30">
+            <img src="../../assets/Logo (6).png" class="logo" alt="">
+          </div>
+          <div class="card-brand mr-30">
+            <img src="../../assets/Logo (7).png" class="logo" alt="">
+          </div>
         </div>
-        <div class="card-brand mr-30">
-          <img src="./assets/Logo (2).png" class="logo" alt="">
-        </div>
-        <div class="card-brand mr-30">
-          <img src="./assets/Logo (3).png" class="logo" alt="">
-        </div>
-        <div class="card-brand mr-30">
-          <img src="./assets/Logo (4).png" class="logo" alt="">
-        </div>
-        <div class="card-brand mr-30">
-          <img src="./assets/Logo (5).png" class="logo" alt="">
-        </div>
-        <div class="card-brand mr-30">
-          <img src="./assets/Logo (6).png" class="logo" alt="">
-        </div>
-        <div class="card-brand mr-30">
-          <img src="./assets/Logo (7).png" class="logo" alt="">
-        </div>
-      </div>
-      <div class="carousel-wrapper">
-        <div class="card-brand mr-30">
-          <img src="./assets/Logo (1).png" class="logo" alt="">
-        </div>
-        <div class="card-brand mr-30">
-          <img src="./assets/Logo (2).png" class="logo" alt="">
-        </div>
-        <div class="card-brand mr-30">
-          <img src="./assets/Logo (3).png" class="logo" alt="">
-        </div>
-        <div class="card-brand mr-30">
-          <img src="./assets/Logo (4).png" class="logo" alt="">
-        </div>
-        <div class="card-brand mr-30">
-          <img src="./assets/Logo (5).png" class="logo" alt="">
-        </div>
-        <div class="card-brand mr-30">
-          <img src="./assets/Logo (6).png" class="logo" alt="">
-        </div>
-        <div class="card-brand mr-30">
-          <img src="./assets/Logo (7).png" class="logo" alt="">
-        </div>
-      </div>
-    </div>
-    <div class="carousel-left">
-      <div class="carousel-wrapper-left">
-        <div class="card-brand mr-30">
-          <img src="./assets/Logo (1).png" class="logo" alt="">
-        </div>
-        <div class="card-brand mr-30">
-          <img src="./assets/Logo (2).png" class="logo" alt="">
-        </div>
-        <div class="card-brand mr-30">
-          <img src="./assets/Logo (3).png" class="logo" alt="">
-        </div>
-        <div class="card-brand mr-30">
-          <img src="./assets/Logo (4).png" class="logo" alt="">
-        </div>
-        <div class="card-brand mr-30">
-          <img src="./assets/Logo (5).png" class="logo" alt="">
-        </div>
-        <div class="card-brand mr-30">
-          <img src="./assets/Logo (6).png" class="logo" alt="">
-        </div>
-        <div class="card-brand mr-30">
-          <img src="./assets/Logo (7).png" class="logo" alt="">
+        <div class="carousel-wrapper-left">
+          <div class="card-brand mr-30">
+            <img src="../../assets/Logo (1).png" class="logo" alt="">
+          </div>
+          <div class="card-brand mr-30">
+            <img src="../../assets/Logo (2).png" class="logo" alt="">
+          </div>
+          <div class="card-brand mr-30">
+            <img src="../../assets/Logo (3).png" class="logo" alt="">
+          </div>
+          <div class="card-brand mr-30">
+            <img src="../../assets/Logo (4).png" class="logo" alt="">
+          </div>
+          <div class="card-brand mr-30">
+            <img src="../../assets/Logo (5).png" class="logo" alt="">
+          </div>
+          <div class="card-brand mr-30">
+            <img src="../../assets/Logo (6).png" class="logo" alt="">
+          </div>
+          <div class="card-brand mr-30">
+            <img src="../../assets/Logo (7).png" class="logo" alt="">
+          </div>
         </div>
       </div>
-      <div class="carousel-wrapper-left">
-        <div class="card-brand mr-30">
-          <img src="./assets/Logo (1).png" class="logo" alt="">
-        </div>
-        <div class="card-brand mr-30">
-          <img src="./assets/Logo (2).png" class="logo" alt="">
-        </div>
-        <div class="card-brand mr-30">
-          <img src="./assets/Logo (3).png" class="logo" alt="">
-        </div>
-        <div class="card-brand mr-30">
-          <img src="./assets/Logo (4).png" class="logo" alt="">
-        </div>
-        <div class="card-brand mr-30">
-          <img src="./assets/Logo (5).png" class="logo" alt="">
-        </div>
-        <div class="card-brand mr-30">
-          <img src="./assets/Logo (6).png" class="logo" alt="">
-        </div>
-        <div class="card-brand mr-30">
-          <img src="./assets/Logo (7).png" class="logo" alt="">
-        </div>
-      </div>
-    </div>
   </section>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
 </body>
