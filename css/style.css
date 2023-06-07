@@ -1,0 +1,256 @@
+:root{
+    --Blue: #3a38ff;
+    --BlueSoft: #ebf0f3;
+    --Navy: #101041;
+    --SoftPurple: #e5e4ff;
+    --DarkGrey: #949293 ;
+    --DarkGrey2: #e7ebed ;
+    --Grey: #dfe2e7;
+    --purple: #6261d8;
+    --green: #316762;
+    --white: #fff;
+    --FwBold: 700;
+    --FwExtraBold: 800;
+    --FwSemiBold: 600;
+    --FwMedium: 500;
+    --FwRegular: 400;
+    --FwLight: 300;
+    
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background: var(--BlueSoft);
+}
+
+.big-header{
+    font-weight: var(--FwExtraBold);
+    color: var(--Navy);
+    font-size: 48px;
+    margin: 0;
+}
+
+.medium-header{
+    font-weight: var(--FwBold);
+    color: var(--Navy);
+    font-size: 28px;
+    margin: 0;
+}
+
+.small-header{
+    font-weight: var(--FwBold);
+    color: var(--Navy);
+    font-size: 22px;
+    margin: 0;
+}
+
+.primary-copy{
+    font-size: 16px;
+    font-weight: var(--FwRegular);
+    color: var(--DarkGrey);
+    margin: 0;
+}
+
+.btn-primary{
+    padding: 12px 20px 12px 20px;
+    background:  var(--Blue);
+    color: var(--white);
+    font-size: 16px;
+    font-weight: var(--FwSemiBold);
+    border-radius: 50px;
+    border: 0;
+}
+
+.btn-primary:hover{
+    padding: 12px 20px 12px 20px;
+    background:  var(--Navy);
+    color: var(--white);
+}
+
+.btn-secondary{
+    padding: 12px 20px 12px 20px;
+    background:  var(--Grey);
+    color: var(--Navy);
+    font-size: 16px;
+    font-weight: var(--FwMedium);
+    border-radius: 50px;
+    border: 0;
+}
+
+.btn-secondary:hover{
+    padding: 12px 20px 12px 20px;
+    background:  var(--Navy);
+    color: var(--white) ;
+    font-size: 16px;
+    font-weight: var(--FwMedium);
+    border-radius: 50px;
+    border: 0;
+}
+
+.navbar-nav .nav-item .nav-link:hover{
+    color: var(--Blue);
+    transition: all 0.3s ease;
+    font-weight: var(--FwSemiBold);
+}
+
+.navbar-nav .nav-item .nav-link{
+    color: var(--Navy);
+    transition: all 0.3s ease;
+    
+}
+
+.navbar-nav .nav-item{
+    padding-left: 10px;
+    font-weight: var(--FwRegular);
+    transition: all 0.3s ease;
+}
+
+.navbar-brand{
+    font-weight: var(--FwBold);
+    color: var(--Navy);
+    font-size: 28px; 
+    margin: 0;
+}
+
+.navbar{
+    --bs-navbar-padding-y: 0;
+}
+
+.cashier-navbar{
+    padding: 30px;
+    background: var(--white);
+    border-bottom-left-radius: 26px;
+    border-bottom-right-radius: 26px;
+}
+
+.img-banner{
+    width: 100%;
+    height: 100%;
+    border-radius: 26px;
+}
+
+.small-copy{
+    font-size: 14px;
+    color: var(--Navy);
+    font-weight: var(--FwSemiBold );
+}
+
+.badge{
+    padding: 8px 1;
+    background: var(--SoftPurple);
+    border-radius: 50px;
+    width: 310px;
+}
+
+.badge .icon{
+    float: left;
+    margin-right: 6px;
+    width: 20px;
+    height: 20px;
+}
+
+.badge .small-copy{
+    padding-top: 4px;
+    margin: 0;
+}
+
+.big-header{
+    font-weight: var(--FwExtraBold);
+    color: var(--Navy);
+    font-size: 48px;
+    margin: 0;
+    line-height: 60px;
+}
+
+.primary-copy{
+    font-size: 16px;
+    font-weight: var(--FwRegular);
+    line-height: 28px;
+    color: var(--DarkGrey);
+    margin: 0;
+}
+
+.mt-70{
+    margin-top: 70px;
+}
+
+.mr-10{
+    margin-right: 10px;
+}
+
+.mr-30{
+    margin-right: 30px;
+}
+
+.mb-10{
+    margin-bottom: 10px;
+}
+
+.mb-20{
+    margin-bottom: 20px;
+}
+
+.mb-30{
+    margin-bottom: 30px;
+}
+
+.card-brand{
+    width: 200px;
+    height: 110px;
+    border-radius: 16px;
+    background: var(--DarkGrey2);
+    text-align: center;
+}
+
+.card-brand .logo{
+    height: 70px;
+    width: 100%;
+    margin-top: 25px;
+}
+
+.carousel-wrapper{
+    display: flex;
+    height: 110px;
+    animation: moveSlidesToLeft 25s linear infinite;
+}
+
+.carousel{
+    justify-content: flex-end;
+    display: flex;
+    flex-direction: row;
+    height: 110px;
+    overflow: hidden;
+}
+
+@keyframes moveSlidesToLeft  {
+    0%{
+        transform: translateX(100%);
+    }
+    to{
+        transform: translateX(0%);
+    }
+}
+
+.carousel-wrapper-left{
+    display: flex;
+    height: 110px;
+    animation: moveSlidesToRight 25s linear infinite;
+}
+
+.carousel-left{
+    justify-content: flex-end;
+    display: flex;
+    flex-direction: row;
+    height: 110px;
+    overflow: hidden;
+}
+
+
+@keyframes moveSlidesToRight  {
+    0%{
+        transform: translateX(0%);
+    }
+    to{
+        transform: translateX(100%);
+    }
+}
