@@ -394,7 +394,7 @@ require '../../config/dbConnect.php'
             if (result === true) {
                 // User clicked "Yes"
                 // Perform desired action here
-                location.href = '../../function/Deletebuku.php?id=' + e.currentTarget.dataset.bukuid;
+                location.href = '../../function/DeleteBuku.php?id=' + e.currentTarget.dataset.bukuid;
             }
         });
 
